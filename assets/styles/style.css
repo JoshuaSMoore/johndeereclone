@@ -1,0 +1,55 @@
+.tractor-space{
+    display: flex;
+    justify-content: space-around;
+}
+
+.tractor-kid{
+    background-image: url(https://blog.machinefinder.com/wp-content/uploads/2009/11/john-deere-kid6.jpg);
+    min-height: 50vh;
+    background-size: cover;
+    background-position: center end;
+    background-position-y: 25%
+}
+.tall{
+    min-height: 50vh
+}
+.tractor-image{
+    background-image: url(https://merriam-webster.com/assets/mw/static/art/dict/tractor.gif);
+    min-height: 25vh;
+    max-width: 3vw;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.nav-width{
+    width: 100%;
+}
+
+.small-button{
+    max-width: 10vw;
+}
+
+body{
+    /* margin-left: 3em; */
+    /* margin-right: 3em; */
+} 
+
+.container-width{
+    min-width: 95vw;
+}
+.backdrop{
+    background-color: gray;
+}
+.whitedrop{
+    background-color: aliceblue;
+}
+/* .bottom-left{
+    position:absolute;
+    bottom: 20px;
+    /* right: 100px; */
+} */
+/* .bottom-right{
+    position:absolute;
+    bottom: 40px;
+    font-size: 3em;
+} */
