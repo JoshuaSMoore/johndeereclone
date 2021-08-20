@@ -4,17 +4,36 @@
 }
 
 .tractor-kid{
-    background-image: url(https://blog.machinefinder.com/wp-content/uploads/2009/11/john-deere-kid6.jpg);
+    background-image: url(https://www.deere.com/assets/images/common/home-page/july-homepage-hero-1366x347.jpg);
     min-height: 50vh;
+    background-size:cover;
+    background-clip: border-box;
+}
+.card-1{
+    background-image: url(https://www.deere.com/assets/images/common/home-page/333G_SmartGrade_Homepage_632x384.jpg);
+    background-size:cover;
+    min-height: 25rem;
+}
+.card-2{
+    background-image: url(https://www.deere.com/assets/images/common/home-page/cf-july-home-page-gradient.jpg);
+    
+}
+
+.card-3{
+    background-image: url(https://www.deere.com/assets/images/common/home-page/Aug-JDStore-homepage.jpg);
     background-size: cover;
-    background-position: center end;
-    background-position-y: 25%
+    min-height: 25rem;
+}
+
+.card-4{
+    background-image: url(https://www.deere.com/assets/images/common/home-page/buyonline3-nmb.jpg);
+    background-size: cover;
 }
 .tall{
     min-height: 50vh
 }
 .tractor-image{
-    background-image: url(https://merriam-webster.com/assets/mw/static/art/dict/tractor.gif);
+    background-image: url(https://www.deere.com/assets/images/common/home-page/333G_SmartGrade_Homepage_632x384.jpg);
     min-height: 25vh;
     max-width: 3vw;
     background-size: cover;
